@@ -1,4 +1,4 @@
-REM   Script: Criação das tabelas - Projeto Fase 2 - Banco de dados
+REM   Script: Criação das tabelas 
 REM   Script criação das tabelas
 
 create table Construtora  
